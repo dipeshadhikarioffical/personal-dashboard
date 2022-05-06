@@ -10,7 +10,7 @@ Personal Finance Dashbord Project is done to find out how much we send in our da
 
 ### Motivation
 
-The main motivate to develop this project is to enhance my knowledge and to get internship in Data Science.
+The main motivation to develop this project is to enhance my knowledge and to get internship in Data Science.
 
 
 ## Roadmap

@@ -4,4 +4,4 @@ personal dashboard build with Power BI
 
 App Demo in local host
 
-![App Demo](personal_finance.gif)
+![App Demo](personal_finanace.gif)
